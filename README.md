@@ -4,6 +4,7 @@
 # Useful Resources
 -Reading Clock from MIDI:
 https://forum.arduino.cc/t/read-midi-clock/1022060/14
+
 -Logistic function:
 https://en.m.wikipedia.org/wiki/Logistic_function
 
