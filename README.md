@@ -9,6 +9,7 @@ https://forum.arduino.cc/t/read-midi-clock/1022060/14
 https://en.m.wikipedia.org/wiki/Logistic_function
 
 # Project Plan
+Mark I
 1) Read Clock from MIDI
 2) Generate random CV every Clock
 3) Implement 3way switch from low-mid-high random CV range
@@ -20,6 +21,10 @@ https://en.m.wikipedia.org/wiki/Logistic_function
 9) Add probability based Lenght (the goal is to generate random patterns that always fill 4/8 bars I suppose)
 10) Have fun playing it
 
+Mark II
+1) Add rotary switch that limits to a number of steps (maybe add LCD)
+2) Design algorithm that forces to occupy the entire selected mesure
+
 # Components
 - Soldering Tools
 - Electrical Cables/PCB
@@ -29,7 +34,7 @@ https://en.m.wikipedia.org/wiki/Logistic_function
 - 8x Push button (mute)
 - 8x Toggle switch (triplets)
 - 1x Potentiometer (randomness)
-- 1x 3 way switch (Random Range)
+- 1x 3 way switch (Random Range)		
 - 2x 3.5 audio sockets (CV and Gate Output)
 - 8x LED (current note indicator)
 - STUFF for standalone alimentation!!!
