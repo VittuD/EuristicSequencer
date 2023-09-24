@@ -31,6 +31,7 @@ https://en.m.wikipedia.org/wiki/Logistic_function
 - 1x Potentiometer (randomness)
 - 1x 3 way switch (Random Range)
 - 2x 3.5 audio sockets (CV and Gate Output)
+- 8x LED (current note indicator)
 - STUFF for standalone alimentation!!!
 
 
