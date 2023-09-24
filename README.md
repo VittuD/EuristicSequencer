@@ -18,3 +18,18 @@ https://en.m.wikipedia.org/wiki/Logistic_function
 8) Generate CV based on Logistic Function
 9) Add probability based Lenght (the goal is to generate random patterns that always fill 4/8 bars I suppose)
 10) Have fun playing it
+
+# Components
+- Soldering Tools
+- Electrical Cables/PCB
+- 1x MIDI socket
+- 1x Arduino Board
+- 8x Switches (lock)
+- 8x Push button (mute)
+- 8x Toggle switch (triplets)
+- 1x Potentiometer (randomness)
+- 1x 3 way switch (Random Range)
+- 2x 3.5 audio sockets (CV and Gate Output)
+- STUFF for standalone alimentation!!!
+
+
