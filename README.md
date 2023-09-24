@@ -19,11 +19,12 @@ Mark I
 7) Generate Random Lenght CV
 8) Generate CV based on Logistic Function
 9) Add probability based Lenght (the goal is to generate random patterns that always fill 4/8 bars I suppose)
-10) Have fun playing it
+10) Have fun playing it, this is mode I
 
 Mark II
 1) Add rotary switch that limits to a number of steps (maybe add LCD)
-2) Design algorithm that forces to occupy the entire selected mesure
+2) Implement mode LIMIT L (every note is adjacent to the mext one, but the loop waits the measure)
+3) Implement mode FILL F (there's only one note in each step, the thing that changes is the placement within the step)
 
 # Components
 - Soldering Tools
